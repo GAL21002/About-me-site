@@ -22,9 +22,9 @@ I’ve gained hands-on experience through research projects and advanced labs th
 ---
 
 ## Contact Information
- **Email:** Guido_llanos@outlook.com  
- **Phone:** (203)943-3007
- **Location** Stratford, CT
+- **Email:** Guido_llanos@outlook.com 
+- **Phone:** (203) 943-3007  
+- **Location:** Stratford, CT
 
 
 
