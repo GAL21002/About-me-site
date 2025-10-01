@@ -11,8 +11,8 @@ Welcome to my professional portfolio, I’m a Senior **Physics major** with mino
 I’ve gained hands-on experience through research projects and advanced labs that focus on data analysis. 
 
 ## My Skills
-- **Programming:** Python, Mathematica, and Julia.
-- **Leadership:** 3 year Residential Assistant for Garrgius Hall, organizing events and supporting student life.
+- **Programming**: Python, Mathematica, and Julia.
+- **Leadership**: 3 year Residential Assistant for Garrgius Hall, organizing events and supporting student life.
 
 
 ## Projects
